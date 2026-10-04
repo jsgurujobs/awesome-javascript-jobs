@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-03
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-04
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -32,7 +32,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Edpuzzle | Software Engineer | Barcelona, Spain | €38,000 - €50,000 a year | 2026-09-06 | [Apply](https://jsgurujobs.com/jobs/580?utm_source=github) |
 | Reveal Technology | Full Stack Engineer - (Ruby on Rails/React) | Remote, USA | Salary ($130,000-$175,000) + Equity | 2026-09-05 | [Apply](https://jsgurujobs.com/jobs/579?utm_source=github) |
 | SupportYourApp | T3 Support Engineer | EU | — | 2026-09-05 | [Apply](https://jsgurujobs.com/jobs/578?utm_source=github) |
-| FocusReactive | JavaScript Engineer (React and/or Node.js) | Warsaw, Poland | Above the market compensation | 2026-09-04 | [Apply](https://jsgurujobs.com/jobs/577?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
