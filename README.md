@@ -2,10 +2,11 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-05
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-06
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Wordly | Senior Backend Engineer - Node.js | United States; Argentina; Brazil; Canada | — | 2026-10-05 | [Apply](https://jsgurujobs.com/jobs/608?utm_source=github) |
 | Hudhud Maps | Senior Frontend Engineer | Riyadh, Saudi Arabia | — | 2026-10-04 | [Apply](https://jsgurujobs.com/jobs/607?utm_source=github) |
 | SentinelOne | Staff Frontend Engineer (TypeScript, React) | Czech Republic, Slovakia | — | 2026-10-03 | [Apply](https://jsgurujobs.com/jobs/606?utm_source=github) |
 | Jalasoft | FullStack React NodeJS Developer | Colombia, Peru, Brazil, Argentina, Bolivia, Plurinational State of, Dominican Republic | — | 2026-10-02 | [Apply](https://jsgurujobs.com/jobs/605?utm_source=github) |
@@ -31,7 +32,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | RevStar | Full Stack JavaScript Web Developer | United States | — | 2026-09-07 | [Apply](https://jsgurujobs.com/jobs/583?utm_source=github) |
 | Tailor | Full-Stack Software Engineer | US | $120K - $160K | 2026-09-07 | [Apply](https://jsgurujobs.com/jobs/582?utm_source=github) |
 | Edpuzzle | Software Engineer | Barcelona, Spain | €38,000 - €50,000 a year | 2026-09-06 | [Apply](https://jsgurujobs.com/jobs/580?utm_source=github) |
-| Reveal Technology | Full Stack Engineer - (Ruby on Rails/React) | Remote, USA | Salary ($130,000-$175,000) + Equity | 2026-09-05 | [Apply](https://jsgurujobs.com/jobs/579?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
