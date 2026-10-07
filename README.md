@@ -2,10 +2,12 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-06
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-07
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Transcenda | Senior Front-End Engineer | Brazil, Poland, Romania | — | 2026-10-07 | [Apply](https://jsgurujobs.com/jobs/612?utm_source=github) |
+| LILT | Staff Fullstack Engineer - Internal Tools | USA | Remote US $190K – $230K • Offers Equity | 2026-10-06 | [Apply](https://jsgurujobs.com/jobs/609?utm_source=github) |
 | Wordly | Senior Backend Engineer - Node.js | United States; Argentina; Brazil; Canada | — | 2026-10-05 | [Apply](https://jsgurujobs.com/jobs/608?utm_source=github) |
 | Hudhud Maps | Senior Frontend Engineer | Riyadh, Saudi Arabia | — | 2026-10-04 | [Apply](https://jsgurujobs.com/jobs/607?utm_source=github) |
 | SentinelOne | Staff Frontend Engineer (TypeScript, React) | Czech Republic, Slovakia | — | 2026-10-03 | [Apply](https://jsgurujobs.com/jobs/606?utm_source=github) |
@@ -30,8 +32,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Startale | Senior Frontend Engineer | Japan, Singapore | — | 2026-09-10 | [Apply](https://jsgurujobs.com/jobs/586?utm_source=github) |
 | Robusta Technology Group | Senior Node.js Developer - (NestJS) - Remote - 3 Months - Octopus by RTG | Cairo, Egypt | — | 2026-09-07 | [Apply](https://jsgurujobs.com/jobs/584?utm_source=github) |
 | RevStar | Full Stack JavaScript Web Developer | United States | — | 2026-09-07 | [Apply](https://jsgurujobs.com/jobs/583?utm_source=github) |
-| Tailor | Full-Stack Software Engineer | US | $120K - $160K | 2026-09-07 | [Apply](https://jsgurujobs.com/jobs/582?utm_source=github) |
-| Edpuzzle | Software Engineer | Barcelona, Spain | €38,000 - €50,000 a year | 2026-09-06 | [Apply](https://jsgurujobs.com/jobs/580?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
