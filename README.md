@@ -2,10 +2,11 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-07
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-08
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| EUROPEAN DYNAMICS | Full Stack Developer (Python, React) | Seville, Andalusia, Spain | — | 2026-10-07 | [Apply](https://jsgurujobs.com/jobs/613?utm_source=github) |
 | Transcenda | Senior Front-End Engineer | Brazil, Poland, Romania | — | 2026-10-07 | [Apply](https://jsgurujobs.com/jobs/612?utm_source=github) |
 | LILT | Staff Fullstack Engineer - Internal Tools | USA | Remote US $190K – $230K • Offers Equity | 2026-10-06 | [Apply](https://jsgurujobs.com/jobs/609?utm_source=github) |
 | Wordly | Senior Backend Engineer - Node.js | United States; Argentina; Brazil; Canada | — | 2026-10-05 | [Apply](https://jsgurujobs.com/jobs/608?utm_source=github) |
@@ -30,8 +31,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Superhuman | Software Engineer, Front-End | United States | — | 2026-09-11 | [Apply](https://jsgurujobs.com/jobs/588?utm_source=github) |
 | ClickHouse | Senior Software Engineer (Typescript / Backend) - AI/ML | United States | $147K – $238K • Offers Equity • Multiple Ranges | 2026-09-10 | [Apply](https://jsgurujobs.com/jobs/587?utm_source=github) |
 | Startale | Senior Frontend Engineer | Japan, Singapore | — | 2026-09-10 | [Apply](https://jsgurujobs.com/jobs/586?utm_source=github) |
-| Robusta Technology Group | Senior Node.js Developer - (NestJS) - Remote - 3 Months - Octopus by RTG | Cairo, Egypt | — | 2026-09-07 | [Apply](https://jsgurujobs.com/jobs/584?utm_source=github) |
-| RevStar | Full Stack JavaScript Web Developer | United States | — | 2026-09-07 | [Apply](https://jsgurujobs.com/jobs/583?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
