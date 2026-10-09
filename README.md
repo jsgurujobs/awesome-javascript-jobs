@@ -2,10 +2,16 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-08
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-09
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Reedsy | Senior Software Engineer (Node/Vue/TypeScript) - Remote Europe | France, Netherlands, Poland, Portugal, Spain, United Kingdom | €70K – €120K | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/621?utm_source=github) |
+| Pavago | Full-Stack Software Engineer | Argentina, Brazil, Colombia, Mexico, Uruguay | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/620?utm_source=github) |
+| Hostinger | Full-Stack Developer \| Node.js \| AI Builder \| Remote | Poland | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/619?utm_source=github) |
+| Innovecs | Senior Full-stack Engineer (Angular, Node.js) | Europe | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/618?utm_source=github) |
+| DataDome | Senior Frontend Engineer (Full Stack growth path) | France | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/617?utm_source=github) |
+| Binance | Frontend Engineer - Earn | APAC | — | 2026-10-08 | [Apply](https://jsgurujobs.com/jobs/616?utm_source=github) |
 | EUROPEAN DYNAMICS | Full Stack Developer (Python, React) | Seville, Andalusia, Spain | — | 2026-10-07 | [Apply](https://jsgurujobs.com/jobs/613?utm_source=github) |
 | Transcenda | Senior Front-End Engineer | Brazil, Poland, Romania | — | 2026-10-07 | [Apply](https://jsgurujobs.com/jobs/612?utm_source=github) |
 | LILT | Staff Fullstack Engineer - Internal Tools | USA | Remote US $190K – $230K • Offers Equity | 2026-10-06 | [Apply](https://jsgurujobs.com/jobs/609?utm_source=github) |
