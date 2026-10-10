@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-09
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-10
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -36,7 +36,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Kong Inc. | Senior Software Engineer, Konnect Admin/Billing | Canada, United States | $150K – $175K • Offers Equity • Offers Bonus | 2026-09-11 | [Apply](https://jsgurujobs.com/jobs/589?utm_source=github) |
 | Superhuman | Software Engineer, Front-End | United States | — | 2026-09-11 | [Apply](https://jsgurujobs.com/jobs/588?utm_source=github) |
 | ClickHouse | Senior Software Engineer (Typescript / Backend) - AI/ML | United States | $147K – $238K • Offers Equity • Multiple Ranges | 2026-09-10 | [Apply](https://jsgurujobs.com/jobs/587?utm_source=github) |
-| Startale | Senior Frontend Engineer | Japan, Singapore | — | 2026-09-10 | [Apply](https://jsgurujobs.com/jobs/586?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
