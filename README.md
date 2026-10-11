@@ -2,10 +2,12 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-10
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-11
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Jobgether | Frontend Engineer | United States | — | 2026-10-10 | [Apply](https://jsgurujobs.com/jobs/623?utm_source=github) |
+| Payward | Senior Software Engineer - React Native - Consumer | Worldwide | — | 2026-10-10 | [Apply](https://jsgurujobs.com/jobs/622?utm_source=github) |
 | Reedsy | Senior Software Engineer (Node/Vue/TypeScript) - Remote Europe | France, Netherlands, Poland, Portugal, Spain, United Kingdom | €70K – €120K | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/621?utm_source=github) |
 | Pavago | Full-Stack Software Engineer | Argentina, Brazil, Colombia, Mexico, Uruguay | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/620?utm_source=github) |
 | Hostinger | Full-Stack Developer \| Node.js \| AI Builder \| Remote | Poland | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/619?utm_source=github) |
@@ -33,9 +35,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | SimpliCity | Applied AI Engineer (JavaScript, Intermediate to Senior, Remote in Canada) | Vancouver, Canada | $50/hr – $65/hr | 2026-09-13 | [Apply](https://jsgurujobs.com/jobs/592?utm_source=github) |
 | Viseven | Junior Front-end Developer | Cape Town | — | 2026-09-13 | [Apply](https://jsgurujobs.com/jobs/591?utm_source=github) |
 | Partisia Blockchain Applications | Front End Developer | Remote | — | 2026-09-12 | [Apply](https://jsgurujobs.com/jobs/590?utm_source=github) |
-| Kong Inc. | Senior Software Engineer, Konnect Admin/Billing | Canada, United States | $150K – $175K • Offers Equity • Offers Bonus | 2026-09-11 | [Apply](https://jsgurujobs.com/jobs/589?utm_source=github) |
-| Superhuman | Software Engineer, Front-End | United States | — | 2026-09-11 | [Apply](https://jsgurujobs.com/jobs/588?utm_source=github) |
-| ClickHouse | Senior Software Engineer (Typescript / Backend) - AI/ML | United States | $147K – $238K • Offers Equity • Multiple Ranges | 2026-09-10 | [Apply](https://jsgurujobs.com/jobs/587?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
