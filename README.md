@@ -2,10 +2,12 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-11
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-12
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Reedsy | Senior Frontend Engineer - Remote Europe | United Kingdom, France, Netherlands, Poland, Portugal, Remote, Spain | €70K – €100K • Offers Equity | 2026-10-12 | [Apply](https://jsgurujobs.com/jobs/626?utm_source=github) |
+| Berlitz | Senior Software Engineer (Web) (m/f/d) | Colombia, Germany | — | 2026-10-11 | [Apply](https://jsgurujobs.com/jobs/624?utm_source=github) |
 | Jobgether | Frontend Engineer | United States | — | 2026-10-10 | [Apply](https://jsgurujobs.com/jobs/623?utm_source=github) |
 | Payward | Senior Software Engineer - React Native - Consumer | Worldwide | — | 2026-10-10 | [Apply](https://jsgurujobs.com/jobs/622?utm_source=github) |
 | Reedsy | Senior Software Engineer (Node/Vue/TypeScript) - Remote Europe | France, Netherlands, Poland, Portugal, Spain, United Kingdom | €70K – €120K | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/621?utm_source=github) |
@@ -34,7 +36,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | SimSpace | Senior Fullstack Engineer | Costa Rica | CRC 1.5M – CRC 2.5M per month • Offers Equity • Offers Bonus | 2026-09-14 | [Apply](https://jsgurujobs.com/jobs/593?utm_source=github) |
 | SimpliCity | Applied AI Engineer (JavaScript, Intermediate to Senior, Remote in Canada) | Vancouver, Canada | $50/hr – $65/hr | 2026-09-13 | [Apply](https://jsgurujobs.com/jobs/592?utm_source=github) |
 | Viseven | Junior Front-end Developer | Cape Town | — | 2026-09-13 | [Apply](https://jsgurujobs.com/jobs/591?utm_source=github) |
-| Partisia Blockchain Applications | Front End Developer | Remote | — | 2026-09-12 | [Apply](https://jsgurujobs.com/jobs/590?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
