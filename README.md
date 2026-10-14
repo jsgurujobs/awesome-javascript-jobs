@@ -2,10 +2,14 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-13
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-14
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| LumiMeds | Frontend Engineer (Next.js & React, AI-Native) – Remote | LATAM | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/630?utm_source=github) |
+| Metabase | Software Engineer (Backend) | Global Remote | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/629?utm_source=github) |
+| Trust Wallet | Senior Mobile Engineer (React Native) | Remote - Global | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/628?utm_source=github) |
+| Supabase | Postgres Deployment Engineer | Remote, Global | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/627?utm_source=github) |
 | Reedsy | Senior Frontend Engineer - Remote Europe | United Kingdom, France, Netherlands, Poland, Portugal, Remote, Spain | €70K – €100K • Offers Equity | 2026-10-12 | [Apply](https://jsgurujobs.com/jobs/626?utm_source=github) |
 | Berlitz | Senior Software Engineer (Web) (m/f/d) | Colombia, Germany | — | 2026-10-11 | [Apply](https://jsgurujobs.com/jobs/624?utm_source=github) |
 | Jobgether | Frontend Engineer | United States | — | 2026-10-10 | [Apply](https://jsgurujobs.com/jobs/623?utm_source=github) |
@@ -34,8 +38,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Bluelight Consulting | Full Stack and Backend NodeJS TypeScript/JavaScript Engineer (Senior) - Latin America, Remote | Montevideo, Uruguay | — | 2026-09-21 | [Apply](https://jsgurujobs.com/jobs/595?utm_source=github) |
 | DaCodes | Senior Full Stack Engineer | Argentina | — | 2026-09-16 | [Apply](https://jsgurujobs.com/jobs/594?utm_source=github) |
 | SimSpace | Senior Fullstack Engineer | Costa Rica | CRC 1.5M – CRC 2.5M per month • Offers Equity • Offers Bonus | 2026-09-14 | [Apply](https://jsgurujobs.com/jobs/593?utm_source=github) |
-| SimpliCity | Applied AI Engineer (JavaScript, Intermediate to Senior, Remote in Canada) | Vancouver, Canada | $50/hr – $65/hr | 2026-09-13 | [Apply](https://jsgurujobs.com/jobs/592?utm_source=github) |
-| Viseven | Junior Front-end Developer | Cape Town | — | 2026-09-13 | [Apply](https://jsgurujobs.com/jobs/591?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
