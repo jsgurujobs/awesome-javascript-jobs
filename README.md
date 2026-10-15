@@ -2,10 +2,18 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-14
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-15
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Truelogic | Semi-Senior Front-end Engineer - Entertainment | LatAm | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/638?utm_source=github) |
+| Brave | Sr. Solutions Engineer - API and Developer Platform | Anywhere | $150,000.00 to $200,000.00 DOE | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/637?utm_source=github) |
+| Kraken | Engineering Manager - Frontend - Krak | Poland; Argentina; Brazil; Canada; Chile; Colombia; Costa Rica; Mexico; Panama; Paraguay; South Africa; Uruguay | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/636?utm_source=github) |
+| Primer | Software Engineer III, Frontend - Account Experience | Poland | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/635?utm_source=github) |
+| Alpaca | Senior Software Engineer, Quality Engineering | Global | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/634?utm_source=github) |
+| Supabase | Software Engineer - Functions (Compute) | Remote, Global | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/633?utm_source=github) |
+| ClickHouse | Senior Software Engineer (Typescript / Frontend) - AI/ML | Australia | $147K – $238K | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/632?utm_source=github) |
+| Truelogic | Senior Front-End Engineer (Next.js/React) - Real Estate | LatAm | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/631?utm_source=github) |
 | LumiMeds | Frontend Engineer (Next.js & React, AI-Native) – Remote | LATAM | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/630?utm_source=github) |
 | Metabase | Software Engineer (Backend) | Global Remote | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/629?utm_source=github) |
 | Trust Wallet | Senior Mobile Engineer (React Native) | Remote - Global | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/628?utm_source=github) |
@@ -37,7 +45,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Sardine | Senior Software Engineer, Frontend | United States | $145K – $195K • Offers Equity | 2026-09-24 | [Apply](https://jsgurujobs.com/jobs/596?utm_source=github) |
 | Bluelight Consulting | Full Stack and Backend NodeJS TypeScript/JavaScript Engineer (Senior) - Latin America, Remote | Montevideo, Uruguay | — | 2026-09-21 | [Apply](https://jsgurujobs.com/jobs/595?utm_source=github) |
 | DaCodes | Senior Full Stack Engineer | Argentina | — | 2026-09-16 | [Apply](https://jsgurujobs.com/jobs/594?utm_source=github) |
-| SimSpace | Senior Fullstack Engineer | Costa Rica | CRC 1.5M – CRC 2.5M per month • Offers Equity • Offers Bonus | 2026-09-14 | [Apply](https://jsgurujobs.com/jobs/593?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
