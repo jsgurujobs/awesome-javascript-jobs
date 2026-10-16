@@ -2,10 +2,13 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-15
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-16
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Solace Health | Senior Full Stack Engineer | United States | $150K – $200K | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/641?utm_source=github) |
+| Coder | Senior Software Engineer (Multiple Teams, Europe) | United Kingdom | £69K – £126K • Offers Equity • Offers Bonus • Multiple Ranges | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/640?utm_source=github) |
+| Octopus by RTG | Senior React Engineer (TypeScript) - 6 to 12 months - - Immediate Hire | Cairo, Egypt | — | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/639?utm_source=github) |
 | Truelogic | Semi-Senior Front-end Engineer - Entertainment | LatAm | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/638?utm_source=github) |
 | Brave | Sr. Solutions Engineer - API and Developer Platform | Anywhere | $150,000.00 to $200,000.00 DOE | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/637?utm_source=github) |
 | Kraken | Engineering Manager - Frontend - Krak | Poland; Argentina; Brazil; Canada; Chile; Colombia; Costa Rica; Mexico; Panama; Paraguay; South Africa; Uruguay | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/636?utm_source=github) |
