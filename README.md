@@ -2,10 +2,12 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-16
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-17
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Altamira | Full-Stack Developer (Node.js + React) | Europe | — | 2026-10-16 | [Apply](https://jsgurujobs.com/jobs/643?utm_source=github) |
+| Reddit | Senior Frontend Software Engineer, Consumer Engineering | Remote - United States | USD 190,800 – 267,100 | 2026-10-16 | [Apply](https://jsgurujobs.com/jobs/642?utm_source=github) |
 | Solace Health | Senior Full Stack Engineer | United States | $150K – $200K | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/641?utm_source=github) |
 | Coder | Senior Software Engineer (Multiple Teams, Europe) | United Kingdom | £69K – £126K • Offers Equity • Offers Bonus • Multiple Ranges | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/640?utm_source=github) |
 | Octopus by RTG | Senior React Engineer (TypeScript) - 6 to 12 months - - Immediate Hire | Cairo, Egypt | — | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/639?utm_source=github) |
@@ -47,7 +49,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Kooth | Full-Stack Software Engineer I | UK | £36.5k - £46.5k per annum | 2026-09-26 | [Apply](https://jsgurujobs.com/jobs/597?utm_source=github) |
 | Sardine | Senior Software Engineer, Frontend | United States | $145K – $195K • Offers Equity | 2026-09-24 | [Apply](https://jsgurujobs.com/jobs/596?utm_source=github) |
 | Bluelight Consulting | Full Stack and Backend NodeJS TypeScript/JavaScript Engineer (Senior) - Latin America, Remote | Montevideo, Uruguay | — | 2026-09-21 | [Apply](https://jsgurujobs.com/jobs/595?utm_source=github) |
-| DaCodes | Senior Full Stack Engineer | Argentina | — | 2026-09-16 | [Apply](https://jsgurujobs.com/jobs/594?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
