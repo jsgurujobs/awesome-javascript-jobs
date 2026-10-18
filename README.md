@@ -2,10 +2,14 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-17
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-18
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Resend | Backend Engineer | Americas / Remote | $140,000 - $180,000 USD | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/648?utm_source=github) |
+| n8n | Senior Product Engineer (TS/NodeJS/Vue) | Albania, Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, Germany, Greece, Hungary, Ireland, Kosovo, Latvia, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, United Kingdom | €104.7K – €144.4K | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/647?utm_source=github) |
+| Monarch | Future Engineering Opportunities | Remote | $120K – $230K | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/646?utm_source=github) |
+| LearnWorlds | Full Stack Software Engineer – Authoring Tools | Greece, Cyprus | — | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/645?utm_source=github) |
 | Altamira | Full-Stack Developer (Node.js + React) | Europe | — | 2026-10-16 | [Apply](https://jsgurujobs.com/jobs/643?utm_source=github) |
 | Reddit | Senior Frontend Software Engineer, Consumer Engineering | Remote - United States | USD 190,800 – 267,100 | 2026-10-16 | [Apply](https://jsgurujobs.com/jobs/642?utm_source=github) |
 | Solace Health | Senior Full Stack Engineer | United States | $150K – $200K | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/641?utm_source=github) |
