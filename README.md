@@ -2,10 +2,11 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-18
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-19
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| NineTwoThree AI Studio | Senior Full Stack JS Engineer | Armenia | — | 2026-10-18 | [Apply](https://jsgurujobs.com/jobs/649?utm_source=github) |
 | Resend | Backend Engineer | Americas / Remote | $140,000 - $180,000 USD | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/648?utm_source=github) |
 | n8n | Senior Product Engineer (TS/NodeJS/Vue) | Albania, Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, Germany, Greece, Hungary, Ireland, Kosovo, Latvia, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, United Kingdom | €104.7K – €144.4K | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/647?utm_source=github) |
 | Monarch | Future Engineering Opportunities | Remote | $120K – $230K | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/646?utm_source=github) |
