@@ -2,10 +2,16 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-19
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-20
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Alan | Fullstack Software Engineer (x/f/m) - Alan Shop | Belgium, France | — | 2026-10-20 | [Apply](https://jsgurujobs.com/jobs/655?utm_source=github) |
+| Bellese | Engineer II, Full Stack | United States | $108,700 - $125,300 a year | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/654?utm_source=github) |
+| ClickHouse | Senior Full Stack Software Engineer - ClickPipes Platform | United States; Canada | $147K – $215K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/653?utm_source=github) |
+| Oscilar | Sr./Staff JavaScript Developer - Web SDK | Brazil, Canada, India, Poland, UK | R$393.8K – R$574.3K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/652?utm_source=github) |
+| Checkly | Senior Product Engineer (DevTools & AI reliability, remote) | Berlin, Madrid, Sofia | €88K – €105K; | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/651?utm_source=github) |
+| Reedsy | Senior Frontend Engineer - Remote Europe | United Kingdom; France; Netherlands; Poland; Portugal; Remote; Spain | €70K – €100K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/650?utm_source=github) |
 | NineTwoThree AI Studio | Senior Full Stack JS Engineer | Armenia | — | 2026-10-18 | [Apply](https://jsgurujobs.com/jobs/649?utm_source=github) |
 | Resend | Backend Engineer | Americas / Remote | $140,000 - $180,000 USD | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/648?utm_source=github) |
 | n8n | Senior Product Engineer (TS/NodeJS/Vue) | Albania, Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, Germany, Greece, Hungary, Ireland, Kosovo, Latvia, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, United Kingdom | €104.7K – €144.4K | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/647?utm_source=github) |
