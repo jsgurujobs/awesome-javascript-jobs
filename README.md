@@ -2,10 +2,11 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-20
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-21
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Schoolhouse | Mid-level Software Engineer | Remote | $167K – $177K | 2026-10-21 | [Apply](https://jsgurujobs.com/jobs/658?utm_source=github) |
 | Alan | Fullstack Software Engineer (x/f/m) - Alan Shop | Belgium, France | — | 2026-10-20 | [Apply](https://jsgurujobs.com/jobs/655?utm_source=github) |
 | Bellese | Engineer II, Full Stack | United States | $108,700 - $125,300 a year | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/654?utm_source=github) |
 | ClickHouse | Senior Full Stack Software Engineer - ClickPipes Platform | United States; Canada | $147K – $215K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/653?utm_source=github) |
@@ -59,7 +60,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Nordic Naturals | Full-Stack Developer | Canada | $117,000 to $129,000 | 2026-09-26 | [Apply](https://jsgurujobs.com/jobs/598?utm_source=github) |
 | Kooth | Full-Stack Software Engineer I | UK | £36.5k - £46.5k per annum | 2026-09-26 | [Apply](https://jsgurujobs.com/jobs/597?utm_source=github) |
 | Sardine | Senior Software Engineer, Frontend | United States | $145K – $195K • Offers Equity | 2026-09-24 | [Apply](https://jsgurujobs.com/jobs/596?utm_source=github) |
-| Bluelight Consulting | Full Stack and Backend NodeJS TypeScript/JavaScript Engineer (Senior) - Latin America, Remote | Montevideo, Uruguay | — | 2026-09-21 | [Apply](https://jsgurujobs.com/jobs/595?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
