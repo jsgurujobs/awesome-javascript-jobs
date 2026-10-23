@@ -2,10 +2,13 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-22
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-23
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Saifuro | Frontend Engineer (React, Web3) | Worldwide | $155,000 to $190,000 | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/663?utm_source=github) |
+| Base360.ai | Senior Full-Stack Product Engineer | Worldwide | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/661?utm_source=github) |
+| HappyRobot | Forward Deployed Engineer | Spain | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/659?utm_source=github) |
 | Schoolhouse | Mid-level Software Engineer | Remote | $167K – $177K | 2026-10-21 | [Apply](https://jsgurujobs.com/jobs/658?utm_source=github) |
 | Alan | Fullstack Software Engineer (x/f/m) - Alan Shop | Belgium, France | — | 2026-10-20 | [Apply](https://jsgurujobs.com/jobs/655?utm_source=github) |
 | Bellese | Engineer II, Full Stack | United States | $108,700 - $125,300 a year | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/654?utm_source=github) |
