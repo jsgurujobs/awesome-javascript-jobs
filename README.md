@@ -2,10 +2,14 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-23
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-24
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Sidecar Health | Senior Software Engineer, Full Stack (Member Experience) | United States | $140,000 - $185,000 | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/667?utm_source=github) |
+| Sumsub | Frontend Developer | Multiple locations | — | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/666?utm_source=github) |
+| Better I18N | Senior Full-Stack Engineer | Remote (Worldwide) | $120K–$180K | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/665?utm_source=github) |
+| Curotec | Senior Front-End Engineer (ReactJS) | United States | — | 2026-10-23 | [Apply](https://jsgurujobs.com/jobs/664?utm_source=github) |
 | Saifuro | Frontend Engineer (React, Web3) | Worldwide | $155,000 to $190,000 | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/663?utm_source=github) |
 | Base360.ai | Senior Full-Stack Product Engineer | Worldwide | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/661?utm_source=github) |
 | HappyRobot | Forward Deployed Engineer | Spain | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/659?utm_source=github) |
