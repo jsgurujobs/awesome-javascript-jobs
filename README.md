@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-24
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-25
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -66,7 +66,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Cloudnonic Corp. | Semi-Senior Frontend Developer (React / Next.js) | Medellin, Colombia | — | 2026-09-26 | [Apply](https://jsgurujobs.com/jobs/599?utm_source=github) |
 | Nordic Naturals | Full-Stack Developer | Canada | $117,000 to $129,000 | 2026-09-26 | [Apply](https://jsgurujobs.com/jobs/598?utm_source=github) |
 | Kooth | Full-Stack Software Engineer I | UK | £36.5k - £46.5k per annum | 2026-09-26 | [Apply](https://jsgurujobs.com/jobs/597?utm_source=github) |
-| Sardine | Senior Software Engineer, Frontend | United States | $145K – $195K • Offers Equity | 2026-09-24 | [Apply](https://jsgurujobs.com/jobs/596?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
