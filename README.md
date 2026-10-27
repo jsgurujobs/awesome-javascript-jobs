@@ -2,10 +2,18 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-26
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-27
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Zaby | Senior Frontend Engineer | Remote | — | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/675?utm_source=github) |
+| Koda North | Full Stack Developer | Singapore, Philippines, Vietnam | — | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/674?utm_source=github) |
+| Premedice | Senior Full-Stack Engineer (AI-First) | Remote (Global) | $80K – $100K + Equity | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/673?utm_source=github) |
+| Souk | Full Stack Engineer | Worldwide | $20,000–$30,000/year | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/672?utm_source=github) |
+| Eneba | Frontend Engineer (React) | Europe | EUR 55.000-70.000 a year | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/671?utm_source=github) |
+| Cosuno | Senior Product Engineer (AI Agents) | Berlin, Germany | €90K – €120K | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/670?utm_source=github) |
+| FINN | Lead Frontend Engineer | Singapore | — | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/669?utm_source=github) |
+| Xplor Technologies | Fullstack Software Engineer - Embedded Payments | Kansas City, MO, USA | USD 95,000 - USD 105,000 yearly | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/668?utm_source=github) |
 | Sidecar Health | Senior Software Engineer, Full Stack (Member Experience) | United States | $140,000 - $185,000 | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/667?utm_source=github) |
 | Sumsub | Frontend Developer | Multiple locations | — | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/666?utm_source=github) |
 | Better I18N | Senior Full-Stack Engineer | Remote (Worldwide) | $120K–$180K | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/665?utm_source=github) |
@@ -62,7 +70,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | OptiPlay | Middle Frontend Developer / Pixi.js | Ukraine, Germany, Slovakia, Cyprus, Poland | — | 2026-09-30 | [Apply](https://jsgurujobs.com/jobs/603?utm_source=github) |
 | Thunderbird | Staff Software Engineer, Web Application Services | Remote | $180,000 - $215,000 USD | 2026-09-28 | [Apply](https://jsgurujobs.com/jobs/602?utm_source=github) |
 | ClassDojo | Senior Full-Stack Engineer | Remote | $146,000 - $215,000 | 2026-09-27 | [Apply](https://jsgurujobs.com/jobs/601?utm_source=github) |
-| Leena AI | Forward Deployed Engineer | United States | — | 2026-09-27 | [Apply](https://jsgurujobs.com/jobs/600?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
