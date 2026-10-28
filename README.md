@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-27
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-28
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -69,7 +69,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Jalasoft | FullStack React NodeJS Developer | Colombia, Peru, Brazil, Argentina, Bolivia, Plurinational State of, Dominican Republic | — | 2026-10-02 | [Apply](https://jsgurujobs.com/jobs/605?utm_source=github) |
 | OptiPlay | Middle Frontend Developer / Pixi.js | Ukraine, Germany, Slovakia, Cyprus, Poland | — | 2026-09-30 | [Apply](https://jsgurujobs.com/jobs/603?utm_source=github) |
 | Thunderbird | Staff Software Engineer, Web Application Services | Remote | $180,000 - $215,000 USD | 2026-09-28 | [Apply](https://jsgurujobs.com/jobs/602?utm_source=github) |
-| ClassDojo | Senior Full-Stack Engineer | Remote | $146,000 - $215,000 | 2026-09-27 | [Apply](https://jsgurujobs.com/jobs/601?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
