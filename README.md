@@ -2,10 +2,14 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-28
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-29
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| iFIT | Lead Front-end Developer - E-commerce | United States | $120,000 - $140,000 USD | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/681?utm_source=github) |
+| Smartsheet | Software Engineer - Full Stack | Bangalore, INDIA | — | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/680?utm_source=github) |
+| Cohere | Web Developer | Toronto, Canada | CA$180K – CA$250K | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/678?utm_source=github) |
+| Boulevard | Senior Software Engineer II | United States | $184,000-$230,000 | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/677?utm_source=github) |
 | Zaby | Senior Frontend Engineer | Remote | — | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/675?utm_source=github) |
 | Koda North | Full Stack Developer | Singapore, Philippines, Vietnam | — | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/674?utm_source=github) |
 | Premedice | Senior Full-Stack Engineer (AI-First) | Remote (Global) | $80K – $100K + Equity | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/673?utm_source=github) |
@@ -68,7 +72,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | SentinelOne | Staff Frontend Engineer (TypeScript, React) | Czech Republic, Slovakia | — | 2026-10-03 | [Apply](https://jsgurujobs.com/jobs/606?utm_source=github) |
 | Jalasoft | FullStack React NodeJS Developer | Colombia, Peru, Brazil, Argentina, Bolivia, Plurinational State of, Dominican Republic | — | 2026-10-02 | [Apply](https://jsgurujobs.com/jobs/605?utm_source=github) |
 | OptiPlay | Middle Frontend Developer / Pixi.js | Ukraine, Germany, Slovakia, Cyprus, Poland | — | 2026-09-30 | [Apply](https://jsgurujobs.com/jobs/603?utm_source=github) |
-| Thunderbird | Staff Software Engineer, Web Application Services | Remote | $180,000 - $215,000 USD | 2026-09-28 | [Apply](https://jsgurujobs.com/jobs/602?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
