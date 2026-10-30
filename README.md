@@ -2,10 +2,11 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-29
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-30
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Anomalo | Senior/Staff Full Stack Software Engineer, Frontend Leaning | United States | $170K – $220K | 2026-10-29 | [Apply](https://jsgurujobs.com/jobs/682?utm_source=github) |
 | iFIT | Lead Front-end Developer - E-commerce | United States | $120,000 - $140,000 USD | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/681?utm_source=github) |
 | Smartsheet | Software Engineer - Full Stack | Bangalore, INDIA | — | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/680?utm_source=github) |
 | Cohere | Web Developer | Toronto, Canada | CA$180K – CA$250K | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/678?utm_source=github) |
