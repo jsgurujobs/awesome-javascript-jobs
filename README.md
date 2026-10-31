@@ -2,10 +2,14 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-30
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-31
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| MOOVX | Backend Developer | LATAM | — | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/688?utm_source=github) |
+| Lexaru GmbH | Senior Full Stack Software Engineer (w/m/d) (GovTech & AI) | Germany, Austria | €4,061 gross per month minimum for employment in Austria (IT-KV 2026), with higher pay based on experience and expertise | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/685?utm_source=github) |
+| MEDvidi | Senior Backend (NodeJS) Engineer | Europe | — | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/684?utm_source=github) |
+| InnoCraft (trading as Matomo) | Full Stack Product Engineer | Bangalore, Delhi, India | — | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/683?utm_source=github) |
 | Anomalo | Senior/Staff Full Stack Software Engineer, Frontend Leaning | United States | $170K – $220K | 2026-10-29 | [Apply](https://jsgurujobs.com/jobs/682?utm_source=github) |
 | iFIT | Lead Front-end Developer - E-commerce | United States | $120,000 - $140,000 USD | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/681?utm_source=github) |
 | Smartsheet | Software Engineer - Full Stack | Bangalore, INDIA | — | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/680?utm_source=github) |
@@ -72,7 +76,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Hudhud Maps | Senior Frontend Engineer | Riyadh, Saudi Arabia | — | 2026-10-04 | [Apply](https://jsgurujobs.com/jobs/607?utm_source=github) |
 | SentinelOne | Staff Frontend Engineer (TypeScript, React) | Czech Republic, Slovakia | — | 2026-10-03 | [Apply](https://jsgurujobs.com/jobs/606?utm_source=github) |
 | Jalasoft | FullStack React NodeJS Developer | Colombia, Peru, Brazil, Argentina, Bolivia, Plurinational State of, Dominican Republic | — | 2026-10-02 | [Apply](https://jsgurujobs.com/jobs/605?utm_source=github) |
-| OptiPlay | Middle Frontend Developer / Pixi.js | Ukraine, Germany, Slovakia, Cyprus, Poland | — | 2026-09-30 | [Apply](https://jsgurujobs.com/jobs/603?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
