@@ -2,10 +2,11 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-10-31
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-01
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Patrianna | AI Full Stack Engineer | Poland, Bulgaria, Georgia, Romania | — | 2026-10-31 | [Apply](https://jsgurujobs.com/jobs/689?utm_source=github) |
 | MOOVX | Backend Developer | LATAM | — | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/688?utm_source=github) |
 | Lexaru GmbH | Senior Full Stack Software Engineer (w/m/d) (GovTech & AI) | Germany, Austria | €4,061 gross per month minimum for employment in Austria (IT-KV 2026), with higher pay based on experience and expertise | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/685?utm_source=github) |
 | MEDvidi | Senior Backend (NodeJS) Engineer | Europe | — | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/684?utm_source=github) |
