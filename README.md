@@ -2,10 +2,25 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-01
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-02
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Surgo Health | Full-Stack Engineer | Istanbul, Türkiye | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/705?utm_source=github) |
+| Modus | Full Stack Software Engineer (AWS, Python, TypeScript) | Brazil | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/704?utm_source=github) |
+| Dscout | Senior Forward Deployed Engineer (Full-Stack) | United States | $250-400K OTE + Equity | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/703?utm_source=github) |
+| Appfire | Fullstack Developer (Java & React) | Poland | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/702?utm_source=github) |
+| Convr | Forward Deployed Software Engineer | United States | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/701?utm_source=github) |
+| Pack.com | Sr. React Native Engineer | United Kingdom, Poland | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/700?utm_source=github) |
+| Diagrid | Fullstack Software Engineer | Remote India; Remote Bangalore | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/699?utm_source=github) |
+| Houzz | Senior Full Stack Software Engineer - Payments | Israel | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/698?utm_source=github) |
+| Bask Health | Forward-Deployed Engineer | United States | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/697?utm_source=github) |
+| Owl Labs | Senior Full Stack Engineer — Cloud Infrastructure & IoT | United States | $160,000 - $180,000 USD | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/696?utm_source=github) |
+| CVS Health | Senior Software Engineer | United States | $92,700.00 - $185,400.00 | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/694?utm_source=github) |
+| Trase Systems | Senior/Staff Full Stack Software Engineer | United States | $180,000-240,000 | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/693?utm_source=github) |
+| Centre for Effective Altruism | Software Engineer | Remote - Global | $134,900 – $166,725 | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/692?utm_source=github) |
+| Air Labs Inc. | Senior Software Engineer - Distributed Systems & File Sync | New York, United States | $280,000 – $310,000 per year | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/691?utm_source=github) |
+| 1406 Consulting | HubSpot Solutions Developer | USA | $90,000 to $110,000 annually | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/690?utm_source=github) |
 | Patrianna | AI Full Stack Engineer | Poland, Bulgaria, Georgia, Romania | — | 2026-10-31 | [Apply](https://jsgurujobs.com/jobs/689?utm_source=github) |
 | MOOVX | Backend Developer | LATAM | — | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/688?utm_source=github) |
 | Lexaru GmbH | Senior Full Stack Software Engineer (w/m/d) (GovTech & AI) | Germany, Austria | €4,061 gross per month minimum for employment in Austria (IT-KV 2026), with higher pay based on experience and expertise | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/685?utm_source=github) |
@@ -76,7 +91,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Wordly | Senior Backend Engineer - Node.js | United States; Argentina; Brazil; Canada | — | 2026-10-05 | [Apply](https://jsgurujobs.com/jobs/608?utm_source=github) |
 | Hudhud Maps | Senior Frontend Engineer | Riyadh, Saudi Arabia | — | 2026-10-04 | [Apply](https://jsgurujobs.com/jobs/607?utm_source=github) |
 | SentinelOne | Staff Frontend Engineer (TypeScript, React) | Czech Republic, Slovakia | — | 2026-10-03 | [Apply](https://jsgurujobs.com/jobs/606?utm_source=github) |
-| Jalasoft | FullStack React NodeJS Developer | Colombia, Peru, Brazil, Argentina, Bolivia, Plurinational State of, Dominican Republic | — | 2026-10-02 | [Apply](https://jsgurujobs.com/jobs/605?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
