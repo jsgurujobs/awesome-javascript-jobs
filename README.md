@@ -2,10 +2,14 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-02
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-03
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Fluence International, Inc. | Full-Stack Developer | Worldwide | $3.5k–$5k/month | 2026-11-03 | [Apply](https://jsgurujobs.com/jobs/709?utm_source=github) |
+| Webigo AI | Full-Stack Engineer (Next.js & TypeScript) | Germany | $130,000 - $165,000 + Equity | 2026-11-02 | [Apply](https://jsgurujobs.com/jobs/708?utm_source=github) |
+| Axra | Senior Frontend Engineer | United States, Canada, UK | £75,000 – £95,000 | 2026-11-02 | [Apply](https://jsgurujobs.com/jobs/707?utm_source=github) |
+| SIFTP Technologies | Senior Full-Stack Engineer (Next.js, TypeScript & Cloud) | Worldwide | $70,000 - $110,000 / year | 2026-11-02 | [Apply](https://jsgurujobs.com/jobs/706?utm_source=github) |
 | Surgo Health | Full-Stack Engineer | Istanbul, Türkiye | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/705?utm_source=github) |
 | Modus | Full Stack Software Engineer (AWS, Python, TypeScript) | Brazil | — | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/704?utm_source=github) |
 | Dscout | Senior Forward Deployed Engineer (Full-Stack) | United States | $250-400K OTE + Equity | 2026-11-01 | [Apply](https://jsgurujobs.com/jobs/703?utm_source=github) |
@@ -90,7 +94,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | LILT | Staff Fullstack Engineer - Internal Tools | USA | Remote US $190K – $230K • Offers Equity | 2026-10-06 | [Apply](https://jsgurujobs.com/jobs/609?utm_source=github) |
 | Wordly | Senior Backend Engineer - Node.js | United States; Argentina; Brazil; Canada | — | 2026-10-05 | [Apply](https://jsgurujobs.com/jobs/608?utm_source=github) |
 | Hudhud Maps | Senior Frontend Engineer | Riyadh, Saudi Arabia | — | 2026-10-04 | [Apply](https://jsgurujobs.com/jobs/607?utm_source=github) |
-| SentinelOne | Staff Frontend Engineer (TypeScript, React) | Czech Republic, Slovakia | — | 2026-10-03 | [Apply](https://jsgurujobs.com/jobs/606?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
