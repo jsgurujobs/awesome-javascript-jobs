@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-03
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-04
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -93,7 +93,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Transcenda | Senior Front-End Engineer | Brazil, Poland, Romania | — | 2026-10-07 | [Apply](https://jsgurujobs.com/jobs/612?utm_source=github) |
 | LILT | Staff Fullstack Engineer - Internal Tools | USA | Remote US $190K – $230K • Offers Equity | 2026-10-06 | [Apply](https://jsgurujobs.com/jobs/609?utm_source=github) |
 | Wordly | Senior Backend Engineer - Node.js | United States; Argentina; Brazil; Canada | — | 2026-10-05 | [Apply](https://jsgurujobs.com/jobs/608?utm_source=github) |
-| Hudhud Maps | Senior Frontend Engineer | Riyadh, Saudi Arabia | — | 2026-10-04 | [Apply](https://jsgurujobs.com/jobs/607?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
