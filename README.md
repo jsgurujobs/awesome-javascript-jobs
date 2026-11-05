@@ -2,10 +2,13 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-04
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-05
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| AlmavivA de Belgique | Full Stack Developer (Java/Angular) | Brussels, Belgium | — | 2026-11-04 | [Apply](https://jsgurujobs.com/jobs/712?utm_source=github) |
+| Nexer | Frontend Developer (React) | Czechia, Slovakia, Hungary | — | 2026-11-04 | [Apply](https://jsgurujobs.com/jobs/711?utm_source=github) |
+| Pigment | Engineering Manager - Frontend (UK) | London | £90,000 - £140,000 a year | 2026-11-04 | [Apply](https://jsgurujobs.com/jobs/710?utm_source=github) |
 | Fluence International, Inc. | Full-Stack Developer | Worldwide | $3.5k–$5k/month | 2026-11-03 | [Apply](https://jsgurujobs.com/jobs/709?utm_source=github) |
 | Webigo AI | Full-Stack Engineer (Next.js & TypeScript) | Germany | $130,000 - $165,000 + Equity | 2026-11-02 | [Apply](https://jsgurujobs.com/jobs/708?utm_source=github) |
 | Axra | Senior Frontend Engineer | United States, Canada, UK | £75,000 – £95,000 | 2026-11-02 | [Apply](https://jsgurujobs.com/jobs/707?utm_source=github) |
@@ -47,7 +50,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Sumsub | Frontend Developer | Multiple locations | — | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/666?utm_source=github) |
 | Better I18N | Senior Full-Stack Engineer | Remote (Worldwide) | $120K–$180K | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/665?utm_source=github) |
 | Curotec | Senior Front-End Engineer (ReactJS) | United States | — | 2026-10-23 | [Apply](https://jsgurujobs.com/jobs/664?utm_source=github) |
-| Saifuro | Frontend Engineer (React, Web3) | Worldwide | $155,000 to $190,000 | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/663?utm_source=github) |
 | Base360.ai | Senior Full-Stack Product Engineer | Worldwide | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/661?utm_source=github) |
 | HappyRobot | Forward Deployed Engineer | Spain | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/659?utm_source=github) |
 | Schoolhouse | Mid-level Software Engineer | Remote | $167K – $177K | 2026-10-21 | [Apply](https://jsgurujobs.com/jobs/658?utm_source=github) |
@@ -92,7 +94,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | EUROPEAN DYNAMICS | Full Stack Developer (Python, React) | Seville, Andalusia, Spain | — | 2026-10-07 | [Apply](https://jsgurujobs.com/jobs/613?utm_source=github) |
 | Transcenda | Senior Front-End Engineer | Brazil, Poland, Romania | — | 2026-10-07 | [Apply](https://jsgurujobs.com/jobs/612?utm_source=github) |
 | LILT | Staff Fullstack Engineer - Internal Tools | USA | Remote US $190K – $230K • Offers Equity | 2026-10-06 | [Apply](https://jsgurujobs.com/jobs/609?utm_source=github) |
-| Wordly | Senior Backend Engineer - Node.js | United States; Argentina; Brazil; Canada | — | 2026-10-05 | [Apply](https://jsgurujobs.com/jobs/608?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
