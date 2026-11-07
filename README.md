@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-06
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-07
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -93,7 +93,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Innovecs | Senior Full-stack Engineer (Angular, Node.js) | Europe | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/618?utm_source=github) |
 | DataDome | Senior Frontend Engineer (Full Stack growth path) | France | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/617?utm_source=github) |
 | Binance | Frontend Engineer - Earn | APAC | — | 2026-10-08 | [Apply](https://jsgurujobs.com/jobs/616?utm_source=github) |
-| EUROPEAN DYNAMICS | Full Stack Developer (Python, React) | Seville, Andalusia, Spain | — | 2026-10-07 | [Apply](https://jsgurujobs.com/jobs/613?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
