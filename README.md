@@ -2,10 +2,17 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-07
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-08
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Engine | Software Engineer - GTM Engineering | United States | $106,250 - $125,000 USD | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/721?utm_source=github) |
+| DigiCert | Forward Deployed Engineer | United States | $155,000 - $200,000 USD | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/720?utm_source=github) |
+| Stanbridge University | Mobile / UI/UX Engineer | Irvine, California, United States | $115,000–$150,000 | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/719?utm_source=github) |
+| Tebra | Senior Software Engineer | United States - Remote | $170,500 - $181,500 USD | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/718?utm_source=github) |
+| Mercury | Senior Software Engineer - Design Systems | Canada, United States | $200,700 - $250,900 | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/717?utm_source=github) |
+| Weedmaps | Senior Software Engineer (Remote) | United States | $162,276 - $207,690 | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/716?utm_source=github) |
+| Terrific | Senior Full Stack Developer – Frontend Oriented | Argentina, Mexico, Brazil, Colombia, Nicaragua, Chile | USD 2,000–3,000 per month | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/715?utm_source=github) |
 | Atomic Vest | Software Engineer, Front End | Canada, USA, LATAM, Europe | — | 2026-11-05 | [Apply](https://jsgurujobs.com/jobs/714?utm_source=github) |
 | 3Y Health | Full Stack AI Engineer | Argentina | — | 2026-11-05 | [Apply](https://jsgurujobs.com/jobs/713?utm_source=github) |
 | AlmavivA de Belgique | Full Stack Developer (Java/Angular) | Brussels, Belgium | — | 2026-11-04 | [Apply](https://jsgurujobs.com/jobs/712?utm_source=github) |
@@ -87,12 +94,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Berlitz | Senior Software Engineer (Web) (m/f/d) | Colombia, Germany | — | 2026-10-11 | [Apply](https://jsgurujobs.com/jobs/624?utm_source=github) |
 | Jobgether | Frontend Engineer | United States | — | 2026-10-10 | [Apply](https://jsgurujobs.com/jobs/623?utm_source=github) |
 | Payward | Senior Software Engineer - React Native - Consumer | Worldwide | — | 2026-10-10 | [Apply](https://jsgurujobs.com/jobs/622?utm_source=github) |
-| Reedsy | Senior Software Engineer (Node/Vue/TypeScript) - Remote Europe | France, Netherlands, Poland, Portugal, Spain, United Kingdom | €70K – €120K | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/621?utm_source=github) |
-| Pavago | Full-Stack Software Engineer | Argentina, Brazil, Colombia, Mexico, Uruguay | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/620?utm_source=github) |
-| Hostinger | Full-Stack Developer \| Node.js \| AI Builder \| Remote | Poland | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/619?utm_source=github) |
-| Innovecs | Senior Full-stack Engineer (Angular, Node.js) | Europe | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/618?utm_source=github) |
-| DataDome | Senior Frontend Engineer (Full Stack growth path) | France | — | 2026-10-09 | [Apply](https://jsgurujobs.com/jobs/617?utm_source=github) |
-| Binance | Frontend Engineer - Earn | APAC | — | 2026-10-08 | [Apply](https://jsgurujobs.com/jobs/616?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
