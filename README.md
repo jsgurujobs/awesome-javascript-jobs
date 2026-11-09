@@ -2,10 +2,15 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-08
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-09
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Wrapbook | Manager, Engineering - Frontend | United States, Canada | $206K – $283.5K | 2026-11-08 | [Apply](https://jsgurujobs.com/jobs/726?utm_source=github) |
+| Compyl | Software Engineer | United States | $100K – $140K | 2026-11-08 | [Apply](https://jsgurujobs.com/jobs/725?utm_source=github) |
+| Astera Institute | Senior Product Engineer, Discourse Graphs | Remote | $120K – $215K | 2026-11-08 | [Apply](https://jsgurujobs.com/jobs/724?utm_source=github) |
+| Newsela | Full Stack Engineer, Marketing | Remote - Argentina; Brazil; Colombia; Costa Rica; Mexico | — | 2026-11-08 | [Apply](https://jsgurujobs.com/jobs/723?utm_source=github) |
+| Infisical | Senior Full Stack Engineer | United States, United Kingdom, Brazil, Canada, India | — | 2026-11-08 | [Apply](https://jsgurujobs.com/jobs/722?utm_source=github) |
 | Engine | Software Engineer - GTM Engineering | United States | $106,250 - $125,000 USD | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/721?utm_source=github) |
 | DigiCert | Forward Deployed Engineer | United States | $155,000 - $200,000 USD | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/720?utm_source=github) |
 | Stanbridge University | Mobile / UI/UX Engineer | Irvine, California, United States | $115,000–$150,000 | 2026-11-07 | [Apply](https://jsgurujobs.com/jobs/719?utm_source=github) |
