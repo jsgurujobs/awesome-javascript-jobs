@@ -2,10 +2,20 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-09
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-10
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Wayflyer | Frontend Software Engineer | Europe | — | 2026-11-10 | [Apply](https://jsgurujobs.com/jobs/736?utm_source=github) |
+| Restream | Senior Software Engineer - Frontend - AI Clips Team | Europe | — | 2026-11-10 | [Apply](https://jsgurujobs.com/jobs/735?utm_source=github) |
+| Planet | Senior Software Engineer, Full-stack - D&I Solutions | United States | $160,600 - $200,800 USD | 2026-11-10 | [Apply](https://jsgurujobs.com/jobs/734?utm_source=github) |
+| Natter | Staff+ Software Engineer | Remote | — | 2026-11-10 | [Apply](https://jsgurujobs.com/jobs/733?utm_source=github) |
+| Savvy Wealth | Senior Software Engineer | Latin America; Brazil; Mexico | — | 2026-11-10 | [Apply](https://jsgurujobs.com/jobs/732?utm_source=github) |
+| Databento | Software Engineer (TypeScript/JavaScript) | United States | $130,000–$215,000 | 2026-11-09 | [Apply](https://jsgurujobs.com/jobs/731?utm_source=github) |
+| Monks | Senior Frontend Engineer | Colombia | — | 2026-11-09 | [Apply](https://jsgurujobs.com/jobs/730?utm_source=github) |
+| Constructor Labs | Senior Frontend Engineer — Scientific Applications | Germany | — | 2026-11-09 | [Apply](https://jsgurujobs.com/jobs/729?utm_source=github) |
+| Keypup | Software Engineer - Frontend - React | France | — | 2026-11-09 | [Apply](https://jsgurujobs.com/jobs/728?utm_source=github) |
+| Hypori, Inc. | Senior Software Engineer – Frontend-Focused Full-Stack | United States | $180,000 – $195,000 base salary | 2026-11-09 | [Apply](https://jsgurujobs.com/jobs/727?utm_source=github) |
 | Wrapbook | Manager, Engineering - Frontend | United States, Canada | $206K – $283.5K | 2026-11-08 | [Apply](https://jsgurujobs.com/jobs/726?utm_source=github) |
 | Compyl | Software Engineer | United States | $100K – $140K | 2026-11-08 | [Apply](https://jsgurujobs.com/jobs/725?utm_source=github) |
 | Astera Institute | Senior Product Engineer, Discourse Graphs | Remote | $120K – $215K | 2026-11-08 | [Apply](https://jsgurujobs.com/jobs/724?utm_source=github) |
@@ -97,8 +107,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Supabase | Postgres Deployment Engineer | Remote, Global | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/627?utm_source=github) |
 | Reedsy | Senior Frontend Engineer - Remote Europe | United Kingdom, France, Netherlands, Poland, Portugal, Remote, Spain | €70K – €100K • Offers Equity | 2026-10-12 | [Apply](https://jsgurujobs.com/jobs/626?utm_source=github) |
 | Berlitz | Senior Software Engineer (Web) (m/f/d) | Colombia, Germany | — | 2026-10-11 | [Apply](https://jsgurujobs.com/jobs/624?utm_source=github) |
-| Jobgether | Frontend Engineer | United States | — | 2026-10-10 | [Apply](https://jsgurujobs.com/jobs/623?utm_source=github) |
-| Payward | Senior Software Engineer - React Native - Consumer | Worldwide | — | 2026-10-10 | [Apply](https://jsgurujobs.com/jobs/622?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
