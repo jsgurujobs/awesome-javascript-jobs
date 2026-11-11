@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-10
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · Last update: 2026-11-11
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -105,8 +105,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Metabase | Software Engineer (Backend) | Global Remote | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/629?utm_source=github) |
 | Trust Wallet | Senior Mobile Engineer (React Native) | Remote - Global | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/628?utm_source=github) |
 | Supabase | Postgres Deployment Engineer | Remote, Global | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/627?utm_source=github) |
-| Reedsy | Senior Frontend Engineer - Remote Europe | United Kingdom, France, Netherlands, Poland, Portugal, Remote, Spain | €70K – €100K • Offers Equity | 2026-10-12 | [Apply](https://jsgurujobs.com/jobs/626?utm_source=github) |
-| Berlitz | Senior Software Engineer (Web) (m/f/d) | Colombia, Germany | — | 2026-10-11 | [Apply](https://jsgurujobs.com/jobs/624?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
