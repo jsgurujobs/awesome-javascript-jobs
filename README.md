@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-12
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-13
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -101,10 +101,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Supabase | Software Engineer - Functions (Compute) | Remote, Global | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/633?utm_source=github) |
 | ClickHouse | Senior Software Engineer (Typescript / Frontend) - AI/ML | Australia | $147K – $238K | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/632?utm_source=github) |
 | Truelogic | Senior Front-End Engineer (Next.js/React) - Real Estate | LatAm | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/631?utm_source=github) |
-| LumiMeds | Frontend Engineer (Next.js & React, AI-Native) – Remote | LATAM | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/630?utm_source=github) |
-| Metabase | Software Engineer (Backend) | Global Remote | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/629?utm_source=github) |
-| Trust Wallet | Senior Mobile Engineer (React Native) | Remote - Global | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/628?utm_source=github) |
-| Supabase | Postgres Deployment Engineer | Remote, Global | — | 2026-10-13 | [Apply](https://jsgurujobs.com/jobs/627?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
