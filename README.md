@@ -2,10 +2,12 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-13
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-14
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Utility Profit | Full Stack Software Engineer — AI & Automation | United States, Mexico | — | 2026-11-13 | [Apply](https://jsgurujobs.com/jobs/739?utm_source=github) |
+| SewerAI Corporation | Senior/Staff Software Engineer | United States | $160K – $180K | 2026-11-13 | [Apply](https://jsgurujobs.com/jobs/738?utm_source=github) |
 | Wayflyer | Frontend Software Engineer | Europe | — | 2026-11-10 | [Apply](https://jsgurujobs.com/jobs/736?utm_source=github) |
 | Restream | Senior Software Engineer - Frontend - AI Clips Team | Europe | — | 2026-11-10 | [Apply](https://jsgurujobs.com/jobs/735?utm_source=github) |
 | Planet | Senior Software Engineer, Full-stack - D&I Solutions | United States | $160,600 - $200,800 USD | 2026-11-10 | [Apply](https://jsgurujobs.com/jobs/734?utm_source=github) |
@@ -93,14 +95,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Solace Health | Senior Full Stack Engineer | United States | $150K – $200K | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/641?utm_source=github) |
 | Coder | Senior Software Engineer (Multiple Teams, Europe) | United Kingdom | £69K – £126K • Offers Equity • Offers Bonus • Multiple Ranges | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/640?utm_source=github) |
 | Octopus by RTG | Senior React Engineer (TypeScript) - 6 to 12 months - - Immediate Hire | Cairo, Egypt | — | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/639?utm_source=github) |
-| Truelogic | Semi-Senior Front-end Engineer - Entertainment | LatAm | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/638?utm_source=github) |
-| Brave | Sr. Solutions Engineer - API and Developer Platform | Anywhere | $150,000.00 to $200,000.00 DOE | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/637?utm_source=github) |
-| Kraken | Engineering Manager - Frontend - Krak | Poland; Argentina; Brazil; Canada; Chile; Colombia; Costa Rica; Mexico; Panama; Paraguay; South Africa; Uruguay | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/636?utm_source=github) |
-| Primer | Software Engineer III, Frontend - Account Experience | Poland | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/635?utm_source=github) |
-| Alpaca | Senior Software Engineer, Quality Engineering | Global | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/634?utm_source=github) |
-| Supabase | Software Engineer - Functions (Compute) | Remote, Global | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/633?utm_source=github) |
-| ClickHouse | Senior Software Engineer (Typescript / Frontend) - AI/ML | Australia | $147K – $238K | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/632?utm_source=github) |
-| Truelogic | Senior Front-End Engineer (Next.js/React) - Real Estate | LatAm | — | 2026-10-14 | [Apply](https://jsgurujobs.com/jobs/631?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
