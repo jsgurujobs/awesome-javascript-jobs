@@ -2,10 +2,11 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-14
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-15
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Fanatico | Senior Frontend Engineer | Remote (Worldwide) | $150K - $200K | 2026-11-14 | [Apply](https://jsgurujobs.com/jobs/740?utm_source=github) |
 | Utility Profit | Full Stack Software Engineer — AI & Automation | United States, Mexico | — | 2026-11-13 | [Apply](https://jsgurujobs.com/jobs/739?utm_source=github) |
 | SewerAI Corporation | Senior/Staff Software Engineer | United States | $160K – $180K | 2026-11-13 | [Apply](https://jsgurujobs.com/jobs/738?utm_source=github) |
 | Wayflyer | Frontend Software Engineer | Europe | — | 2026-11-10 | [Apply](https://jsgurujobs.com/jobs/736?utm_source=github) |
@@ -92,9 +93,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | LearnWorlds | Full Stack Software Engineer – Authoring Tools | Greece, Cyprus | — | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/645?utm_source=github) |
 | Altamira | Full-Stack Developer (Node.js + React) | Europe | — | 2026-10-16 | [Apply](https://jsgurujobs.com/jobs/643?utm_source=github) |
 | Reddit | Senior Frontend Software Engineer, Consumer Engineering | Remote - United States | USD 190,800 – 267,100 | 2026-10-16 | [Apply](https://jsgurujobs.com/jobs/642?utm_source=github) |
-| Solace Health | Senior Full Stack Engineer | United States | $150K – $200K | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/641?utm_source=github) |
-| Coder | Senior Software Engineer (Multiple Teams, Europe) | United Kingdom | £69K – £126K • Offers Equity • Offers Bonus • Multiple Ranges | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/640?utm_source=github) |
-| Octopus by RTG | Senior React Engineer (TypeScript) - 6 to 12 months - - Immediate Hire | Cairo, Egypt | — | 2026-10-15 | [Apply](https://jsgurujobs.com/jobs/639?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
