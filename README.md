@@ -2,10 +2,15 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-15
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-16
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Deepslate | Frontend Engineer (m/f/d) | Germany | €50K – €70K | 2026-11-15 | [Apply](https://jsgurujobs.com/jobs/746?utm_source=github) |
+| Lightyear | Software Engineer | United States | $120K – $180K | 2026-11-15 | [Apply](https://jsgurujobs.com/jobs/745?utm_source=github) |
+| StackAI (by Asana) | Senior Frontend Engineer | Spain | €89K – €127K | 2026-11-15 | [Apply](https://jsgurujobs.com/jobs/744?utm_source=github) |
+| NewtonX | Staff Frontend Engineer | United States | $180k-$240k | 2026-11-15 | [Apply](https://jsgurujobs.com/jobs/743?utm_source=github) |
+| Glass Health | Founding Software Engineer (Full-Stack, Remote) | Remote | $120,000 - $210,000 a year | 2026-11-15 | [Apply](https://jsgurujobs.com/jobs/742?utm_source=github) |
 | Fanatico | Senior Frontend Engineer | Remote (Worldwide) | $150K - $200K | 2026-11-14 | [Apply](https://jsgurujobs.com/jobs/740?utm_source=github) |
 | Utility Profit | Full Stack Software Engineer — AI & Automation | United States, Mexico | — | 2026-11-13 | [Apply](https://jsgurujobs.com/jobs/739?utm_source=github) |
 | SewerAI Corporation | Senior/Staff Software Engineer | United States | $160K – $180K | 2026-11-13 | [Apply](https://jsgurujobs.com/jobs/738?utm_source=github) |
@@ -91,8 +96,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | n8n | Senior Product Engineer (TS/NodeJS/Vue) | Albania, Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, Germany, Greece, Hungary, Ireland, Kosovo, Latvia, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, United Kingdom | €104.7K – €144.4K | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/647?utm_source=github) |
 | Monarch | Future Engineering Opportunities | Remote | $120K – $230K | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/646?utm_source=github) |
 | LearnWorlds | Full Stack Software Engineer – Authoring Tools | Greece, Cyprus | — | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/645?utm_source=github) |
-| Altamira | Full-Stack Developer (Node.js + React) | Europe | — | 2026-10-16 | [Apply](https://jsgurujobs.com/jobs/643?utm_source=github) |
-| Reddit | Senior Frontend Software Engineer, Consumer Engineering | Remote - United States | USD 190,800 – 267,100 | 2026-10-16 | [Apply](https://jsgurujobs.com/jobs/642?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
