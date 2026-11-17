@@ -2,10 +2,12 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-16
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-17
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Plentific | Senior Frontend Engineer | EU; Berlin Office | — | 2026-11-16 | [Apply](https://jsgurujobs.com/jobs/748?utm_source=github) |
+| Proofline | Senior Frontend Engineer | Germany | — | 2026-11-16 | [Apply](https://jsgurujobs.com/jobs/747?utm_source=github) |
 | Deepslate | Frontend Engineer (m/f/d) | Germany | €50K – €70K | 2026-11-15 | [Apply](https://jsgurujobs.com/jobs/746?utm_source=github) |
 | Lightyear | Software Engineer | United States | $120K – $180K | 2026-11-15 | [Apply](https://jsgurujobs.com/jobs/745?utm_source=github) |
 | StackAI (by Asana) | Senior Frontend Engineer | Spain | €89K – €127K | 2026-11-15 | [Apply](https://jsgurujobs.com/jobs/744?utm_source=github) |
@@ -92,10 +94,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Checkly | Senior Product Engineer (DevTools & AI reliability, remote) | Berlin, Madrid, Sofia | €88K – €105K; | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/651?utm_source=github) |
 | Reedsy | Senior Frontend Engineer - Remote Europe | United Kingdom; France; Netherlands; Poland; Portugal; Remote; Spain | €70K – €100K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/650?utm_source=github) |
 | NineTwoThree AI Studio | Senior Full Stack JS Engineer | Armenia | — | 2026-10-18 | [Apply](https://jsgurujobs.com/jobs/649?utm_source=github) |
-| Resend | Backend Engineer | Americas / Remote | $140,000 - $180,000 USD | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/648?utm_source=github) |
-| n8n | Senior Product Engineer (TS/NodeJS/Vue) | Albania, Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, Germany, Greece, Hungary, Ireland, Kosovo, Latvia, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, United Kingdom | €104.7K – €144.4K | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/647?utm_source=github) |
-| Monarch | Future Engineering Opportunities | Remote | $120K – $230K | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/646?utm_source=github) |
-| LearnWorlds | Full Stack Software Engineer – Authoring Tools | Greece, Cyprus | — | 2026-10-17 | [Apply](https://jsgurujobs.com/jobs/645?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
