@@ -2,10 +2,14 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-17
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-18
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| LangChain | Senior Frontend Engineer, AI Observability & Evals Platform | United States | $180,000-$240,000 USD | 2026-11-18 | [Apply](https://jsgurujobs.com/jobs/752?utm_source=github) |
+| Trading212 | Staff Frontend Engineer | Poland | — | 2026-11-18 | [Apply](https://jsgurujobs.com/jobs/751?utm_source=github) |
+| Amwell | Frontend Engineer | Colombia | — | 2026-11-17 | [Apply](https://jsgurujobs.com/jobs/750?utm_source=github) |
+| Moxie | Staff Product Engineer, Frontend (LATAM) | Remote - Global | $137K – $170K | 2026-11-17 | [Apply](https://jsgurujobs.com/jobs/749?utm_source=github) |
 | Plentific | Senior Frontend Engineer | EU; Berlin Office | — | 2026-11-16 | [Apply](https://jsgurujobs.com/jobs/748?utm_source=github) |
 | Proofline | Senior Frontend Engineer | Germany | — | 2026-11-16 | [Apply](https://jsgurujobs.com/jobs/747?utm_source=github) |
 | Deepslate | Frontend Engineer (m/f/d) | Germany | €50K – €70K | 2026-11-15 | [Apply](https://jsgurujobs.com/jobs/746?utm_source=github) |
@@ -93,7 +97,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Oscilar | Sr./Staff JavaScript Developer - Web SDK | Brazil, Canada, India, Poland, UK | R$393.8K – R$574.3K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/652?utm_source=github) |
 | Checkly | Senior Product Engineer (DevTools & AI reliability, remote) | Berlin, Madrid, Sofia | €88K – €105K; | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/651?utm_source=github) |
 | Reedsy | Senior Frontend Engineer - Remote Europe | United Kingdom; France; Netherlands; Poland; Portugal; Remote; Spain | €70K – €100K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/650?utm_source=github) |
-| NineTwoThree AI Studio | Senior Full Stack JS Engineer | Armenia | — | 2026-10-18 | [Apply](https://jsgurujobs.com/jobs/649?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
