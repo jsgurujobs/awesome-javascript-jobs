@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-18
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-19
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -91,12 +91,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Base360.ai | Senior Full-Stack Product Engineer | Worldwide | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/661?utm_source=github) |
 | HappyRobot | Forward Deployed Engineer | Spain | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/659?utm_source=github) |
 | Schoolhouse | Mid-level Software Engineer | Remote | $167K – $177K | 2026-10-21 | [Apply](https://jsgurujobs.com/jobs/658?utm_source=github) |
-| Alan | Fullstack Software Engineer (x/f/m) - Alan Shop | Belgium, France | — | 2026-10-20 | [Apply](https://jsgurujobs.com/jobs/655?utm_source=github) |
-| Bellese | Engineer II, Full Stack | United States | $108,700 - $125,300 a year | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/654?utm_source=github) |
-| ClickHouse | Senior Full Stack Software Engineer - ClickPipes Platform | United States; Canada | $147K – $215K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/653?utm_source=github) |
-| Oscilar | Sr./Staff JavaScript Developer - Web SDK | Brazil, Canada, India, Poland, UK | R$393.8K – R$574.3K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/652?utm_source=github) |
-| Checkly | Senior Product Engineer (DevTools & AI reliability, remote) | Berlin, Madrid, Sofia | €88K – €105K; | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/651?utm_source=github) |
-| Reedsy | Senior Frontend Engineer - Remote Europe | United Kingdom; France; Netherlands; Poland; Portugal; Remote; Spain | €70K – €100K | 2026-10-19 | [Apply](https://jsgurujobs.com/jobs/650?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
