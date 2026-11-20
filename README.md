@@ -2,10 +2,12 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-19
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-20
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Distru | Senior AI Product Engineer | United States | $160,000 - $250,000 a year | 2026-11-19 | [Apply](https://jsgurujobs.com/jobs/755?utm_source=github) |
+| CSC Generation | Senior Full Stack Engineer (Typescript) | Costa Rica | — | 2026-11-19 | [Apply](https://jsgurujobs.com/jobs/753?utm_source=github) |
 | LangChain | Senior Frontend Engineer, AI Observability & Evals Platform | United States | $180,000-$240,000 USD | 2026-11-18 | [Apply](https://jsgurujobs.com/jobs/752?utm_source=github) |
 | Trading212 | Staff Frontend Engineer | Poland | — | 2026-11-18 | [Apply](https://jsgurujobs.com/jobs/751?utm_source=github) |
 | Amwell | Frontend Engineer | Colombia | — | 2026-11-17 | [Apply](https://jsgurujobs.com/jobs/750?utm_source=github) |
@@ -90,7 +92,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Curotec | Senior Front-End Engineer (ReactJS) | United States | — | 2026-10-23 | [Apply](https://jsgurujobs.com/jobs/664?utm_source=github) |
 | Base360.ai | Senior Full-Stack Product Engineer | Worldwide | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/661?utm_source=github) |
 | HappyRobot | Forward Deployed Engineer | Spain | — | 2026-10-22 | [Apply](https://jsgurujobs.com/jobs/659?utm_source=github) |
-| Schoolhouse | Mid-level Software Engineer | Remote | $167K – $177K | 2026-10-21 | [Apply](https://jsgurujobs.com/jobs/658?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
