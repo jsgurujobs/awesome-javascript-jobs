@@ -2,10 +2,20 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-20
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-21
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| HFT Architecture | Frontend Developer | United States | USD 150,000–190,000 a year | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/772?utm_source=github) |
+| Mistral | Software Engineer, Fullstack (IP & Licensing Platform) | Paris | — | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/768?utm_source=github) |
+| Sporty | Lead Full-stack Engineer | EMEA | — | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/763?utm_source=github) |
+| Constructor | Full Stack Engineer: Retail Media | Europe | $80k–$120k USD | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/762?utm_source=github) |
+| Netlify | Staff Software Engineer (Interfaces) | Remote | $182,000 - $248,000 | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/761?utm_source=github) |
+| Northbeam | Senior Fullstack Engineer (Python + TypeScript) | United States | $165,000 - $210,000 USD | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/760?utm_source=github) |
+| Render | Staff Threat Intelligence Engineer | United States | $230K – $320K | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/759?utm_source=github) |
+| SimSpace | Staff Software Engineer | United States | $180,000 - $260,000 | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/758?utm_source=github) |
+| Fingerprint | Design Engineer | Europe | $103,000 - $180,000 USD | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/757?utm_source=github) |
+| Arbor | Senior Product Engineer | United Kingdom | £70,000-80,000 | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/756?utm_source=github) |
 | Distru | Senior AI Product Engineer | United States | $160,000 - $250,000 a year | 2026-11-19 | [Apply](https://jsgurujobs.com/jobs/755?utm_source=github) |
 | CSC Generation | Senior Full Stack Engineer (Typescript) | Costa Rica | — | 2026-11-19 | [Apply](https://jsgurujobs.com/jobs/753?utm_source=github) |
 | LangChain | Senior Frontend Engineer, AI Observability & Evals Platform | United States | $180,000-$240,000 USD | 2026-11-18 | [Apply](https://jsgurujobs.com/jobs/752?utm_source=github) |
