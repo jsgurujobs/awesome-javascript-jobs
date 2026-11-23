@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-22
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-23
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -97,10 +97,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Cosuno | Senior Product Engineer (AI Agents) | Berlin, Germany | €90K – €120K | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/670?utm_source=github) |
 | FINN | Lead Frontend Engineer | Singapore | — | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/669?utm_source=github) |
 | Xplor Technologies | Fullstack Software Engineer - Embedded Payments | Kansas City, MO, USA | USD 95,000 - USD 105,000 yearly | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/668?utm_source=github) |
-| Sidecar Health | Senior Software Engineer, Full Stack (Member Experience) | United States | $140,000 - $185,000 | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/667?utm_source=github) |
-| Sumsub | Frontend Developer | Multiple locations | — | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/666?utm_source=github) |
-| Better I18N | Senior Full-Stack Engineer | Remote (Worldwide) | $120K–$180K | 2026-10-24 | [Apply](https://jsgurujobs.com/jobs/665?utm_source=github) |
-| Curotec | Senior Front-End Engineer (ReactJS) | United States | — | 2026-10-23 | [Apply](https://jsgurujobs.com/jobs/664?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
