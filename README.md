@@ -2,10 +2,14 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-23
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-24
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Affirm | Staff Software Engineer, Frontend (Decisions Orchestration) | United States | $230,000 - $290,000 | 2026-11-23 | [Apply](https://jsgurujobs.com/jobs/777?utm_source=github) |
+| ClickHouse | Sr. Frontend Software Engineer - Growth | Europe, US | $185K – $230K | 2026-11-23 | [Apply](https://jsgurujobs.com/jobs/776?utm_source=github) |
+| ClickHouse | Sr. Frontend Software Engineer - Growth | Europe, US | $185K – $230K | 2026-11-23 | [Apply](https://jsgurujobs.com/jobs/775?utm_source=github) |
+| NetBox Labs | Senior Frontend Engineer, Foundations | United States, Latam | $165K – $195K | 2026-11-23 | [Apply](https://jsgurujobs.com/jobs/774?utm_source=github) |
 | ServiceNow | Principal Software Engineer | United States, Canada | $221,200 - $387,100 | 2026-11-21 | [Apply](https://jsgurujobs.com/jobs/773?utm_source=github) |
 | HFT Architecture | Frontend Developer | United States | USD 150,000–190,000 a year | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/772?utm_source=github) |
 | Mistral | Software Engineer, Fullstack (IP & Licensing Platform) | Paris | — | 2026-11-20 | [Apply](https://jsgurujobs.com/jobs/768?utm_source=github) |
