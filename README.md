@@ -2,10 +2,11 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-24
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-25
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
+| Hopsule | Frontend Engineer | Remote (Global) | — | 2026-11-24 | [Apply](https://jsgurujobs.com/jobs/778?utm_source=github) |
 | Affirm | Staff Software Engineer, Frontend (Decisions Orchestration) | United States | $230,000 - $290,000 | 2026-11-23 | [Apply](https://jsgurujobs.com/jobs/777?utm_source=github) |
 | ClickHouse | Sr. Frontend Software Engineer - Growth | Europe, US | $185K – $230K | 2026-11-23 | [Apply](https://jsgurujobs.com/jobs/776?utm_source=github) |
 | ClickHouse | Sr. Frontend Software Engineer - Growth | Europe, US | $185K – $230K | 2026-11-23 | [Apply](https://jsgurujobs.com/jobs/775?utm_source=github) |
