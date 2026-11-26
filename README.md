@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-25
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-26
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -94,14 +94,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | Smartsheet | Software Engineer - Full Stack | Bangalore, INDIA | — | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/680?utm_source=github) |
 | Cohere | Web Developer | Toronto, Canada | CA$180K – CA$250K | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/678?utm_source=github) |
 | Boulevard | Senior Software Engineer II | United States | $184,000-$230,000 | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/677?utm_source=github) |
-| Zaby | Senior Frontend Engineer | Remote | — | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/675?utm_source=github) |
-| Koda North | Full Stack Developer | Singapore, Philippines, Vietnam | — | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/674?utm_source=github) |
-| Premedice | Senior Full-Stack Engineer (AI-First) | Remote (Global) | $80K – $100K + Equity | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/673?utm_source=github) |
-| Souk | Full Stack Engineer | Worldwide | $20,000–$30,000/year | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/672?utm_source=github) |
-| Eneba | Frontend Engineer (React) | Europe | EUR 55.000-70.000 a year | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/671?utm_source=github) |
-| Cosuno | Senior Product Engineer (AI Agents) | Berlin, Germany | €90K – €120K | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/670?utm_source=github) |
-| FINN | Lead Frontend Engineer | Singapore | — | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/669?utm_source=github) |
-| Xplor Technologies | Fullstack Software Engineer - Embedded Payments | Kansas City, MO, USA | USD 95,000 - USD 105,000 yearly | 2026-10-26 | [Apply](https://jsgurujobs.com/jobs/668?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
