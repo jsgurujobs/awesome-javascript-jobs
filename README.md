@@ -2,7 +2,7 @@
 
 Remote JavaScript, TypeScript, React and Node.js jobs, updated daily.
 
-Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-27
+Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgurujobs](https://t.me/jsgurujobs) · [Weekly email with salaries](https://jsgurujobs.com/newsletter?utm_source=github&utm_campaign=readme) · Last update: 2026-11-28
 
 | Company | Role | Where | Salary | Posted | Link |
 |---|---|---|---|---|---|
@@ -90,10 +90,6 @@ Updated daily from [jsgurujobs.com](https://jsgurujobs.com) · Telegram: [@jsgur
 | MEDvidi | Senior Backend (NodeJS) Engineer | Europe | — | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/684?utm_source=github) |
 | InnoCraft (trading as Matomo) | Full Stack Product Engineer | Bangalore, Delhi, India | — | 2026-10-30 | [Apply](https://jsgurujobs.com/jobs/683?utm_source=github) |
 | Anomalo | Senior/Staff Full Stack Software Engineer, Frontend Leaning | United States | $170K – $220K | 2026-10-29 | [Apply](https://jsgurujobs.com/jobs/682?utm_source=github) |
-| iFIT | Lead Front-end Developer - E-commerce | United States | $120,000 - $140,000 USD | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/681?utm_source=github) |
-| Smartsheet | Software Engineer - Full Stack | Bangalore, INDIA | — | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/680?utm_source=github) |
-| Cohere | Web Developer | Toronto, Canada | CA$180K – CA$250K | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/678?utm_source=github) |
-| Boulevard | Senior Software Engineer II | United States | $184,000-$230,000 | 2026-10-28 | [Apply](https://jsgurujobs.com/jobs/677?utm_source=github) |
 
 ## Hiring JavaScript developers?
 
